@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshrawal1125&label=Profile%20views&color=0e75b6&style=flat" alt="santoshrawal1125" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
-
-- 👨‍💻 All of my projects are available at [https://www.santoshrawal.com.np/](https://www.santoshrawal.com.np/)
 
 - 📫 How to reach me **santoshrawal1125@gmail.com**
 
